@@ -82,7 +82,7 @@ html, body {
 
  
 .listing img {
-    margin-top: 5px;
+    
     margin-right: 15px; /* Space between the image and the text */
     width: 18px; /* Adjust the size of the image if needed */
     height: auto; /* Maintain aspect ratio */
